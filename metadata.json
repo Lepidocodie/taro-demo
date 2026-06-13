@@ -1,0 +1,6 @@
+{
+  "name": "Tarotism",
+  "description": "A celestial-themed Tarot reading application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
